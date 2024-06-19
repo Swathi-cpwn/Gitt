@@ -1,1 +1,5 @@
 This is second tex file for git directory, created by me!
+
+Checkin with some branch commands...
+
+git is great!!
