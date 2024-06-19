@@ -1,3 +1,4 @@
 This is the first git text file.
 This file is sed for an example of clone 
 Gitty
+Clonee
